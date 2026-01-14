@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Vedant! 👋
 ### 🎓 Master's Student in Data Science & Analytics @ EPITA (Paris)
 
