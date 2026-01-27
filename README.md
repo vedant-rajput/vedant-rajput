@@ -3,7 +3,7 @@
 
 I am an aspiring Data Scientist passionate about applying analytical skills to real-world engineering projects.
 
-**👀 I’m seeking Data Science Internships in France!**
+** I’m seeking Data Science Internships in France!**
 
 ---
 
