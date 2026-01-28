@@ -10,7 +10,7 @@ I am an aspiring Data Scientist passionate about applying analytical skills to r
 ### Tech Stack
 * **Languages:** Python, Java, SQL, HTML/CSS
 * **Data Science:** Pandas, Matplotlib, NumPy, Scikit-Learn
-* **AI/Deep Learning:** VGG16, NADE, Computer Vision, Data Visualization
+* **AI/Deep Learning:** VGG16, NADE, Computer Vision, Data Visualization, Image Processing
 * **Tools:** Git, Docker, ARX (Data Anonymization), Tableau, Excel
 
 ---
