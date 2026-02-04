@@ -21,7 +21,7 @@ I am an aspiring Data Scientist passionate about applying analytical skills to r
 
 
 * I engineered an end-to-end Deep Learning pipeline that ingests raw telemetry from NASA's ACE and DSCOVR satellites (located at the L1 Lagrange point).
-* Achieved a high correlation (R² > 0.6$ on test data) between predicted and actual Kp indices.
+* Achieved a high correlation (R² > 0.6 on test data) between predicted and actual Kp indices.
 * Implemented domain-specific physics features, such as Eyring Energy (V x Bz), to capture the energy transfer efficiency between the solar wind and Earth’s magnetosphere.
 * Developed a Bidirectional LSTM (Long Short-Term Memory) neural network. Unlike standard regression, this architecture captures the temporal dependencies and "memory" of the magnetosphere, recognizing that a storm is often the result of cumulative solar pressure over 24-48 hours.
 
