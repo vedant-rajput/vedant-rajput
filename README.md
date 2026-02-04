@@ -19,6 +19,7 @@ I am an aspiring Data Scientist passionate about applying analytical skills to r
 
 **1. NASA's Helio-Forecast-Geomagnetic-Storm-Prediction-via-Deep-Learning-on-Solar-Wind-Telemetry**
 
+
 * I engineered an end-to-end Deep Learning pipeline that ingests raw telemetry from NASA's ACE and DSCOVR satellites (located at the L1 Lagrange point).
 * Achieved a high correlation (R² > 0.6$ on test data) between predicted and actual Kp indices.
 * Implemented domain-specific physics features, such as Eyring Energy (V x Bz), to capture the energy transfer efficiency between the solar wind and Earth’s magnetosphere.
@@ -26,9 +27,9 @@ I am an aspiring Data Scientist passionate about applying analytical skills to r
 
 **2. Privacy-Preserving AI with Fully Homomorphic Encryption Running Machine Learning models on encrypted medical data using Zama & Concrete ML.**
 
-*I built a system where the AI never sees the patient's data. Using Fully Homomorphic Encryption, I trained a model that performs mathematical operations directly on encrypted ciphertext.
-*Trained a Logistic Regression model in Scikit-Learn to distinguish between malignant and benign samples, then compiled it into a cryptographic circuit using Zama's compiler.
-*The model successfully predicts malignancy on encrypted inputs. The server returns an encrypted diagnosis that only the hospital/patient can unlock.
+* Built a system where the AI never sees the patient's data. Using Fully Homomorphic Encryption, I trained a model that performs mathematical operations directly on encrypted ciphertext.
+* Constructed a system where the AI never sees the patient's data. Using Fully Homomorphic Encryption, I trained a model that performs mathematical operations directly on encrypted ciphertext.
+* The model successfully predicts malignancy on encrypted inputs. The server returns an encrypted diagnosis that only the hospital/patient can unlock.
 
 **3. Optimizing Staking on Bittensor (TAO)**
 
