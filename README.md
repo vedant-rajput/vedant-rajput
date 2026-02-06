@@ -1,7 +1,7 @@
 # Hi there, I'm Vedant! 👋
 ### 🎓 Master's Student in Data Science & Analytics @ EPITA (Paris)
 
-I am an aspiring Data Scientist passionate about applying analytical skills to real-world engineering projects.
+I am an aspiring Data Scientist passionate about applying analytical skills to real-world engineering projects
 
 ** I’m seeking Data Science Internships in France!**
 
