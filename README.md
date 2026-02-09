@@ -8,9 +8,9 @@ I am an aspiring Data Scientist passionate about applying analytical skills to r
 ---
 
 ### Tech Stack
-* **Languages:** Python, Java, SQL, HTML/CSS
+* **Languages:** Python, Java, SQL, HTML/CSS, Java Script
 * **Data Science:** Pandas, Matplotlib, NumPy, Scikit-Learn
-* **AI/Deep Learning:** VGG16, NADE, Computer Vision, Data Visualization, Image Processing
+* **AI/Deep Learning:** Convolutional Neural Networks[CNN'S], Recurrent Neural Networks[RNN'S], VGG16, Computer Vision, Data Visualization, Image Processing
 * **Tools:** Git, Docker, ARX (Data Anonymization), Tableau, Excel
 
 ---
