@@ -27,6 +27,7 @@ I am an aspiring Data Scientist passionate about applying analytical skills to r
 *  *Tools:* Python, Machine Learning, Deep Learning, Scikit learn, Pandas, Seaborn, NASA's satellite data, Atmospheric data.
 
 *  "Data courtesy of NASA/GSFC Space Physics Data Facility's OMNIWeb service."
+*  Data set: https://omniweb.gsfc.nasa.gov/
 
 **2. Privacy-Preserving AI with Fully Homomorphic Encryption Running Machine Learning models on encrypted medical data using Zama & Concrete ML.**
 
