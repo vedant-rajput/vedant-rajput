@@ -1,5 +1,5 @@
 # About Me:
-Hi there, I'm Vedant! 👋<br>I am an aspiring Data Scientist passionate about applying analytical skills to real-world engineering projects<br><br>** I’m seeking Data Science Internships in France!**
+Hi there, I'm Vedant! 👋<br>I am an aspiring Data Scientist passionate about applying analytical skills to real-world engineering projects<br><br>** I’m seeking end of studies Data Science Internships in France!**
 
 
 ## Socials:
