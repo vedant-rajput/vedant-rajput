@@ -12,7 +12,7 @@ Hi there, I'm Vedant! 👋<br>I am an aspiring Data Scientist passionate about a
 
 ### Featured Projects
 
-##1. NASA's Helio-Forecast: Geomagnetic Storm Prediction via Deep Learning
+**1. NASA's Helio-Forecast: Geomagnetic Storm Prediction via Deep Learning**
 
 ### Overview
 
@@ -44,7 +44,7 @@ The standout engineering decision was to move beyond raw sensor inputs and desig
 
 ---
 
-##2. European AI Regulatory Compliance Engine (Multi-Agent RAG)
+**2. European AI Regulatory Compliance Engine (Multi-Agent RAG)**
 
 ### Overview
 
@@ -77,7 +77,7 @@ Under the hood, the corpus — 280 pages and over 1,045,000 characters across th
 
 ---
 
-##3. End-to-End MLOps Pipeline: Taxi Fare Prediction
+**3. End-to-End MLOps Pipeline: Taxi Fare Prediction**
 
 ### Overview
 
